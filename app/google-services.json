@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_number": "419349899741",
+    "firebase_url": "https://lawyersapp-84f1e.firebaseio.com",
+    "project_id": "lawyersapp-84f1e",
+    "storage_bucket": "lawyersapp-84f1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419349899741:android:ecde1a3279527f07",
+        "android_client_info": {
+          "package_name": "com.herprogramacion.lawyersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419349899741-04so2l8dbvh9ld32dl9a0fm36p4n2tvb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.herprogramacion.lawyersapp",
+            "certificate_hash": "E390CD67D6A62260479244A21EDB77F43B413CDB"
+          }
+        },
+        {
+          "client_id": "419349899741-g6u4p28ik8mg2iq38pcoht0j7ggepnpa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419349899741-g6u4p28ik8mg2iq38pcoht0j7ggepnpa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
